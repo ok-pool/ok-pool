@@ -15,6 +15,7 @@ ETH          okaypool.work:25565<br>
 友情提示:<br>
 以上链接是中转链接，仅供学习测试使用。<br>
 本站由泛播 Cloudflare 提供 DDOS 防护.<br>
+官网:http://okpool.work
 
 Solemnly declare:<br>
 The links in this website are forwarding links,<br>
