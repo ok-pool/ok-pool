@@ -1,8 +1,6 @@
 f2pool矿池地址:<br>
 ETH          f2pool.okpool.work:22<br>
-
 BTC          ok-pool.work:22<br>
-
 ETC          okaypool.work:22<br>
 
 币印矿池地址:<br>
