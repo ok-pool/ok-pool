@@ -1,25 +1,25 @@
-f2pool矿池地址:
-ETH          f2pool.okpool.work:22
+f2pool矿池地址:<br>
+ETH          f2pool.okpool.work:22<br>
 
-BTC          ok-pool.work:22
+BTC          ok-pool.work:22<br>
 
-ETC          okaypool.work:22
+ETC          okaypool.work:22<br>
 
-币印矿池地址:
-ETH          poolin.okpool.work:25565
+币印矿池地址:<br>
+ETH          poolin.okpool.work:25565<br>
 
-币安矿池地址:
-ETH          ok-pool.work:25565
+币安矿池地址:<br>
+ETH          ok-pool.work:25565<br>
 
-ethermine矿池地址:
-ETH          okaypool.work:25565
+ethermine矿池地址:<br>
+ETH          okaypool.work:25565<br>
 
-友情提示:
-以上链接是中转链接，仅供学习测试使用。
-本站由泛播 Cloudflare 提供 DDOS 防护.
+友情提示:<br><br>
+以上链接是中转链接，仅供学习测试使用。<br>
+本站由泛播 Cloudflare 提供 DDOS 防护.<br>
 
-Solemnly declare:
-The links in this website are forwarding links,
-which are only for my own learning and use.
-Do not use them for profit and other illegal purposes,
-and you will be responsible for the consequences!
+Solemnly declare:<br>
+The links in this website are forwarding links,<br>
+which are only for my own learning and use.<br>
+Do not use them for profit and other illegal purposes,<br>
+and you will be responsible for the consequences!<br>
