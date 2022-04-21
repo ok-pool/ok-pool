@@ -12,7 +12,7 @@ ETH          ok-pool.work:25565<br>
 ethermine矿池地址:<br>
 ETH          okaypool.work:25565<br>
 
-友情提示:<br><br>
+友情提示:<br>
 以上链接是中转链接，仅供学习测试使用。<br>
 本站由泛播 Cloudflare 提供 DDOS 防护.<br>
 
